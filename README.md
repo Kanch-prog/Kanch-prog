@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **React Native project**
 
-- 👨‍💻 All of my projects are available at [https://kanch-prog.github.io/My_portfolio/](https://kanch-prog.github.io/My_portfolio/)
+- 👨‍💻 All of my projects are available at https://kanch-prog.github.io/portfolio/
 
 - 💬 Ask me about **React, PHP, MySQL**
 
